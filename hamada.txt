@@ -1,1 +1,6 @@
+ssh-keygen -t rsa -b 4096 -C "user.email"
+to generate public or private key 
+
+cat ~/.ssh/id_rsa.pub
+ to get content of file
 
